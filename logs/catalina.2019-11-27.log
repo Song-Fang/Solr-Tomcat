@@ -1,0 +1,139 @@
+27-Nov-2019 13:00:51.393 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.27
+27-Nov-2019 13:00:51.491 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 7 2019 09:57:22 UTC
+27-Nov-2019 13:00:51.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.27.0
+27-Nov-2019 13:00:51.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2019 13:00:51.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2019 13:00:51.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Nov-2019 13:00:51.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+27-Nov-2019 13:00:51.493 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+27-Nov-2019 13:00:51.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2019 13:00:51.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Resources\solr-8.2.0\apache-tomcat-9.0.27
+27-Nov-2019 13:00:51.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Resources\solr-8.2.0\apache-tomcat-9.0.27
+27-Nov-2019 13:00:51.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\conf\logging.properties
+27-Nov-2019 13:00:51.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2019 13:00:51.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2019 13:00:51.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2019 13:00:51.530 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2019 13:00:51.530 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Resources\solr-8.2.0\apache-tomcat-9.0.27
+27-Nov-2019 13:00:51.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Resources\solr-8.2.0\apache-tomcat-9.0.27
+27-Nov-2019 13:00:51.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\temp
+27-Nov-2019 13:00:51.533 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+27-Nov-2019 13:00:51.533 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+27-Nov-2019 13:00:51.534 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Nov-2019 13:00:51.678 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+27-Nov-2019 13:00:52.938 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 13:00:54.060 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 13:00:54.065 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3,284] milliseconds
+27-Nov-2019 13:00:54.288 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2019 13:00:54.288 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.27]
+27-Nov-2019 13:00:54.332 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\docs]
+27-Nov-2019 13:00:55.046 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\docs] has finished in [713] ms
+27-Nov-2019 13:00:55.047 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\examples]
+27-Nov-2019 13:00:58.748 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\examples] has finished in [3,701] ms
+27-Nov-2019 13:00:58.749 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\host-manager]
+27-Nov-2019 13:00:58.794 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\host-manager] has finished in [46] ms
+27-Nov-2019 13:00:58.795 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\manager]
+27-Nov-2019 13:00:58.832 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\manager] has finished in [36] ms
+27-Nov-2019 13:00:58.832 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\ROOT]
+27-Nov-2019 13:00:58.866 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\ROOT] has finished in [34] ms
+27-Nov-2019 13:00:58.867 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\solr]
+27-Nov-2019 13:01:18.047 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2019 13:01:56.314 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\solr] has finished in [57,447] ms
+27-Nov-2019 13:01:56.339 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 13:01:56.589 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 13:01:56.592 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [62,525] milliseconds
+27-Nov-2019 14:29:57.997 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+27-Nov-2019 14:29:59.201 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 14:30:01.178 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 14:30:03.026 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Nov-2019 14:30:46.470 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [solr] appears to have started a thread named [Log4j2-TF-1-AsyncLoggerConfig-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ com.lmax.disruptor.TimeoutBlockingWaitStrategy.waitFor(TimeoutBlockingWaitStrategy.java:38)
+ com.lmax.disruptor.ProcessingSequenceBarrier.waitFor(ProcessingSequenceBarrier.java:56)
+ com.lmax.disruptor.BatchEventProcessor.processEvents(BatchEventProcessor.java:159)
+ com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:125)
+ java.lang.Thread.run(Thread.java:748)
+27-Nov-2019 14:30:47.757 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 14:30:48.321 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 14:30:48.669 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 14:30:48.983 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 14:32:11.723 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.27
+27-Nov-2019 14:32:11.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 7 2019 09:57:22 UTC
+27-Nov-2019 14:32:11.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.27.0
+27-Nov-2019 14:32:11.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2019 14:32:11.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2019 14:32:11.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Nov-2019 14:32:11.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+27-Nov-2019 14:32:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+27-Nov-2019 14:32:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2019 14:32:11.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Resources\solr-8.2.0\apache-tomcat-9.0.27
+27-Nov-2019 14:32:11.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Resources\solr-8.2.0\apache-tomcat-9.0.27
+27-Nov-2019 14:32:11.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\conf\logging.properties
+27-Nov-2019 14:32:11.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2019 14:32:11.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2019 14:32:11.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2019 14:32:11.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2019 14:32:11.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Resources\solr-8.2.0\apache-tomcat-9.0.27
+27-Nov-2019 14:32:11.945 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Resources\solr-8.2.0\apache-tomcat-9.0.27
+27-Nov-2019 14:32:11.946 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\temp
+27-Nov-2019 14:32:11.946 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+27-Nov-2019 14:32:11.947 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+27-Nov-2019 14:32:11.947 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Nov-2019 14:32:12.230 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+27-Nov-2019 14:32:15.294 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 14:32:16.234 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 14:32:16.278 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [17,615] milliseconds
+27-Nov-2019 14:32:16.558 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2019 14:32:16.558 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.27]
+27-Nov-2019 14:32:16.567 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\docs]
+27-Nov-2019 14:32:17.999 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\docs] has finished in [1,432] ms
+27-Nov-2019 14:32:17.999 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\examples]
+27-Nov-2019 14:32:19.705 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\examples] has finished in [1,705] ms
+27-Nov-2019 14:32:19.705 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\host-manager]
+27-Nov-2019 14:32:19.768 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\host-manager] has finished in [63] ms
+27-Nov-2019 14:32:19.769 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\manager]
+27-Nov-2019 14:32:19.794 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\manager] has finished in [24] ms
+27-Nov-2019 14:32:19.794 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\ROOT]
+27-Nov-2019 14:32:19.856 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\ROOT] has finished in [62] ms
+27-Nov-2019 14:32:19.857 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\solr]
+27-Nov-2019 14:32:42.387 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2019 14:33:06.352 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Resources\solr-8.2.0\apache-tomcat-9.0.27\webapps\solr] has finished in [46,496] ms
+27-Nov-2019 14:33:06.490 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 14:33:06.616 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 14:33:06.618 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [50,340] milliseconds
+27-Nov-2019 21:26:58.148 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+27-Nov-2019 21:26:58.858 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 21:27:00.312 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 21:27:00.839 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Nov-2019 21:27:14.901 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [solr] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+27-Nov-2019 21:27:15.092 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [solr] appears to have started a thread named [Log4j2-TF-1-AsyncLoggerConfig-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ com.lmax.disruptor.TimeoutBlockingWaitStrategy.waitFor(TimeoutBlockingWaitStrategy.java:38)
+ com.lmax.disruptor.ProcessingSequenceBarrier.waitFor(ProcessingSequenceBarrier.java:56)
+ com.lmax.disruptor.BatchEventProcessor.processEvents(BatchEventProcessor.java:159)
+ com.lmax.disruptor.BatchEventProcessor.run(BatchEventProcessor.java:125)
+ java.lang.Thread.run(Thread.java:748)
+27-Nov-2019 21:27:15.301 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [solr] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+27-Nov-2019 21:27:17.220 INFO [Abandoned connection cleanup thread] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1385)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1038)
+		at com.mysql.jdbc.AbandonedConnectionCleanupThread.checkContextClassLoaders(AbandonedConnectionCleanupThread.java:90)
+		at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:63)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+27-Nov-2019 21:27:20.291 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 21:27:20.658 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2019 21:27:21.056 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
+27-Nov-2019 21:27:21.217 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
